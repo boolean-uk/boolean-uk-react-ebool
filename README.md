@@ -2,6 +2,13 @@
 
 Today you're practising building routes in a React app' by creating an [eCommerce app](./images/ebool.gif)! It will also test you, as you'll have to use everything you've learned so far!
 
+## Setup
+
+1. Fork this repository
+2. Clone the forked repository onto your local machines
+3. In the root directory, type `npm install`, which installs dependencies for the project
+4. Finally, type `npm run start`, which starts a development server that runs your website in the browser. That server will reload your website whenever you make any changes to source files
+
 ## Instructions
 
 - Start your json-server with `json-server --watch db/db.json -p 4000`
